@@ -5,8 +5,8 @@ This is an example script that will show you how to check the performance of you
 '''
 
 #!!! Fill out username and password
-username = ''
-password = ''
+username = 'rafaelcarrillo09@gmail.com'
+password = 'Dragonballz28!'
 #!!!
 
 login = r.login(username, password)

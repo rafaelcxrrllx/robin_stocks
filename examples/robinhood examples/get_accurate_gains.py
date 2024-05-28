@@ -11,8 +11,8 @@ Print profileData and see what other values you can play around with.
 '''
 
 #!!! Fill out username and password
-username = ''
-password = ''
+username = 'rafaelcarrillo09@gmail.com'
+password = 'Dragonballz28!'
 #!!!
 
 login = r.login(username,password)
