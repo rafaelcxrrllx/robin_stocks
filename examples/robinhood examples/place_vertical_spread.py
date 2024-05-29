@@ -4,8 +4,8 @@ This is an example script that will place an option spread.
 '''
 
 #!!! Fill out username and password
-username = 'rafaelcarrillo09@gmail.com'
-password = 'Dragonballz28!'
+username = ''
+password = ''
 #!!!
 
 login = r.login(username,password)

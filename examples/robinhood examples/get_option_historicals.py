@@ -14,8 +14,8 @@ Matplotlib also has a candlestick option that you can use.
 '''
 
 #!!! Fill out username and password
-username = 'rafaelcarrillo09@gmail.com'
-password = 'Dragonballz28!'
+username = ''
+password = ''
 #!!!
 
 login = r.login(username,password)
